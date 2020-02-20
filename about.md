@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Greetings! My name is Charles Chambers, and I am a long time programming enthusiast who is working towards becoming a professional. Watch this space for future developements!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[c.w.chambers@gmail.com](mailto:c.w.chambers@gmail.com)
